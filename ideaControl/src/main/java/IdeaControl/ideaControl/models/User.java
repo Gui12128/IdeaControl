@@ -1,4 +1,4 @@
-package IdeaControl.models;
+package IdeaControl.ideaControl.models;
 
 public class User {
 
